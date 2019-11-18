@@ -26,3 +26,4 @@ Scikit-Learn и XGBoost, Jupyter Notebook, SQL.
 ### Модуль #2
 
 * [Введение в машинное обучение](sprint6/)
+* [Обучение с учителем](sprint7/)
