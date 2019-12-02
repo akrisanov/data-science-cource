@@ -27,3 +27,4 @@ Scikit-Learn и XGBoost, Jupyter Notebook, SQL.
 
 * [Введение в машинное обучение](sprint6/)
 * [Обучение с учителем](sprint7/)
+* [Машинное обучение в бизнесе](sprint8/)
